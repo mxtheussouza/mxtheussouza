@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Contacts:
+**Would you like to find me?**
 
 <div>
   <a href="https://instagram.com/mxtheussouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
