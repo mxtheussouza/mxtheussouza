@@ -1,4 +1,4 @@
-## Hello, world! 👋
+## Hello there! 👋
 
 <!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE6E95&vCenter=true&multiline=true&width=435&lines=Hello%2C+world!%20👋)](https://git.io/typing-svg) -->
 
