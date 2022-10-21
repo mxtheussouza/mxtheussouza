@@ -7,8 +7,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdearaujo&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=dracula"/>
 </div>
 
-<!-- Contributions -->
+<!-- 
+Contributions
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusdearaujo&theme=dracula&bg_color=0d1117&title_color=FE6E95&hide_border=true&area=true&line=FE6E95&custom_title=Contribution%20Graph)
+-->
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,10 +26,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
   
-<hr>
-
+<!-- <hr>
 <div align="center">
   <a href="https://instagram.com/mxtheussouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <!-- <a href = "mailto:matheusouzadearaujo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
+   <a href = "mailto:matheusouzadearaujo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheussouzadearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-</div>
+</div> 
+-->
