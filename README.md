@@ -2,10 +2,11 @@
 
 <!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE6E95&vCenter=true&multiline=true&width=435&lines=Hello%2C+world!%20👋)](https://git.io/typing-svg) -->
 
-<div align="center">
+<!-- <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdearaujo&hide_border=true&bg_color=0d1117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdearaujo&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=dracula"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdearaujo&layout=compact&hide_border=true&bg_color=0d1117&langs_count=7&theme=dracula"/> 
 </div>
+-->
 
 <!-- 
 Contributions
