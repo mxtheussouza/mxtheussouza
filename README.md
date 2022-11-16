@@ -5,7 +5,7 @@
 
 <p align="left"> 
   Hello there! I’m a programming, technology lover, software developer and brazilian.<br>
-  Focused on the Node.js stack, always looking for solutions and knowledge to share with the open source world and collaborate with the entire dev community.
+  Focused on the JavaScript and TypeScript stack, always looking for solutions and knowledge to share with the open source world and collaborate with the entire dev community.
 </p>
 
 <div style="display: inline_block" align="left">
