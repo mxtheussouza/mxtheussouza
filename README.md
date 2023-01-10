@@ -20,8 +20,4 @@
 </div>
 -->
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,laravel,linux,docker" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,laravel,linux,docker&theme=light)](https://skillicons.dev)
