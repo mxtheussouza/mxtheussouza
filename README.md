@@ -4,8 +4,8 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <p align="left"> 
-  Hello there! I’m a programming, technology lover, software developer and brazilian.<br>
-  Focused on the JavaScript and TypeScript stack, always looking for solutions and knowledge to share with the open source world and collaborate with the entire dev community.
+  Hello there! I’m a programming, technology lover, software developer and <strong>brazilian</strong>.<br>
+  Focused on the <strong>JavaScript</strong> and <strong>TypeScript</strong> stack, always looking for solutions and knowledge to share with the Open-source world and collaborate with the entire Dev Community.
 </p>
 
 <!--
