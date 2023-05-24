@@ -1,6 +1,5 @@
 ## Hello there! 👋
-  
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <p align="left"> 
@@ -20,4 +19,4 @@
 </div>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,deno,react,laravel,linux,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,deno,react,linux,docker&theme=light)](https://skillicons.dev)
