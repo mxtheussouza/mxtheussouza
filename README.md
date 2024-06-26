@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Hello there! I’m a programming, technology lover, software developer and <strong>brazilian</strong>.<br>
-  Focused on the <strong>JavaScript</strong> and <strong>TypeScript</strong> stack, always looking for solutions and knowledge to share with the Open-source world and collaborate with the entire Dev Community.
+  Always looking for solutions and knowledge to share with the Open-source world and collaborate with the entire Dev Community.
 </p>
 
 <!--
